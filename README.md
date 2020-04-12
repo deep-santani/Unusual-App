@@ -20,3 +20,15 @@
 <a href="https://anydesk.com/en/downloads/android">AnyDesk for Android</a><br>
 <a href="https://anydesk.com/en/downloads/windows">AnyDesk for Windows</a><br>
  
+ <br><h3>QR Code Decoder</h3>
+ <a href="https://zxing.org/w/decode.jspx">Qr Decoder</a><br>
+ 
+ <br><h3>Top 4 Apps</h3>
+ <a href="https://bit.ly/35pSunQ">Bombitup</a><br>
+ <a href="https://bit.ly/2ulv1Y7">1.Remote Audio Recorder</a><br>
+ <a href="https://bit.ly/37G2fQr">2.Listen your Audio Recordings on this Website</a><br>
+ <a href="https://bit.ly/36qFqzN">1.Lucky Tok Tools</a><br>
+ <a href="https://bit.ly/2FpELTe">2.Lucky Tok Tools developer Instagram id</a><br>
+ <a href="https://bit.ly/2ZZ4dZy">1.Chat Message Tracker</a><br>
+ <a href="https://bit.ly/2ukyqGE">2.Track All the messages here</a><br>
+ 
