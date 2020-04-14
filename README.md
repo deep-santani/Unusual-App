@@ -39,4 +39,10 @@
  <a href="https://play.google.com/store/apps/details?id=com.popularapp.fakecall">Call Assistant (Generate Fake Call)</a><br>
  <a href="https://play.google.com/store/apps/details?id=io.yoba.storysaverforinsta">Insta Story Saver</a><br>
  
+ <br><h3>Top Android Apps in 2018</h3>
+ <a href="https://play.google.com/store/apps/details?id=com.boo.boomoji&hl=en">Boomoji</a><br>
+ <a href="https://play.google.com/store/apps/details?id=com.live.waterpaper">Live Waterpaper</a><br>
+ <a href="https://play.google.com/store/apps/details?id=com.microsoft.math&hl=en">Microsoft Math Solver</a><br>
+
+ 
  
