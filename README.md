@@ -45,4 +45,9 @@
  <a href="https://play.google.com/store/apps/details?id=com.microsoft.math&hl=en">Microsoft Math Solver</a><br>
 
  
+ <br><h3>Android Apps You Don't know before</h3>
+ <a href="https://play.google.com/store/apps/details?id=com.estsoft.picnic&hl=en">PICNIC - photo filter</a><br>
+ <a href="https://play.google.com/store/apps/details?id=com.msearcher.camfind">CamFind - Visual Search Engine</a><br>
+ <a href="https://play.google.com/store/apps/details?id=com.rcgravityart.particlelivewallpaper&hl=en">Particle Live Wallpaper</a><br>
+ <a href="https://play.google.com/store/apps/details?id=com.google.tango.measure">Measure - Quick Everyday Measurements</a><br>
  
