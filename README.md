@@ -53,3 +53,11 @@
  
  <br><h3>Video Editing App</h3>
  <a href="https://moddroid.com/videoshow.html?download">Videoshow (Premium & Pro Patched)</a><br>
+
+
+<br><h3>Top 5 Useful Website</h3>
+<a href="https://www.remove.bg/">Remove Image Background</a><br>
+<a href="https://demos.algorithmia.com/colorize-photos">Algorithmia(Blak & White)</a><br>
+<a href="https://activeapk.com/">Active APK</a><br>
+<a href="https://www.crazygames.com/">Crazy Games</a><br>
+<a href="https://photolab.me/">PhotoLab</a><br>
