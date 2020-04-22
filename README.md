@@ -61,3 +61,9 @@
 <a href="https://activeapk.com/">Active APK</a><br>
 <a href="https://www.crazygames.com/">Crazy Games</a><br>
 <a href="https://photolab.me/">PhotoLab</a><br>
+
+<br><h3>Top 4 Amazing Website</h3>
+<a href="https://www.pexels.com/">free stock photos & videos</a><br>
+<a href="https://www.unscreen.com/">Remove Video Background</a><br>
+<a href="https://www.webpushnotifications.com/">Web Push Notifications</a><br>
+<a href="https://privacy.com/">The online card</a><br>
