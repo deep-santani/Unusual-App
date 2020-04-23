@@ -68,3 +68,14 @@
 <a href="https://www.unscreen.com/">Remove Video Background</a><br>
 <a href="https://www.webpushnotifications.com/">Web Push Notifications</a><br>
 <a href="https://privacy.com/">The online card</a><br>
+
+<br><h3>File Manager Trick</h3>
+<a href="file:///sdcard">Sd Card</a><br>
+
+<br><h3>Top Application</h3>
+<a href="https://play.google.com/store/apps/details?id=suffsystem.infotechsuffsystem.suff&hl=en">Suff (Free Movies & Series Download</a><br>
+<a href="https://play.google.com/store/apps/details?id=in.whatsaga.whatsapplongerstatus&hl=en_IN">WhatSaga | Longer Stories | Status Saver</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.fabby.android&hl=en_IN">Fabby — Photo Editor, Selfie Art Camera</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_IN">Snapseed</a><br>
+
+
