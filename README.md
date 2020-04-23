@@ -19,7 +19,8 @@
 <br><h3>Screen Share App</h3>
 <a href="https://anydesk.com/en/downloads/android">AnyDesk for Android</a><br>
 <a href="https://anydesk.com/en/downloads/windows">AnyDesk for Windows</a><br>
- 
+<a href="https://remotedesktop.google.com">Chrome Remote Desktop</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop&hl=en_IN">Chrome Remote Desktop For Android</a><br>
  <br><h3>QR Code Decoder</h3>
  <a href="https://zxing.org/w/decode.jspx">Qr Decoder</a><br>
  
