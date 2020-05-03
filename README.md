@@ -79,7 +79,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.fabby.android&hl=en_IN">Fabby — Photo Editor, Selfie Art Camera</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_IN">Snapseed</a><br>
 
+<br><h3>Top Website for Fake thing</h3>
 <a href="https://money.yandex.ru">YanaDex Create your Free Virtual Card(MasterCard)</a><br>
+<a href="http://sharetitan.net/bitcard">BitCard - Credit Card & Payment Details Skipping Service</a><br>
 
 <a href="https://drive.google.com/open?id=1kKaY05IuxYgDl6GccavDU6Vn5paO5lvl&authuser=0">dr.fone crack</a><br>
 <a href="https://play.google.com/store/apps/details?id=ua.com.wifisolutions.wifivr&hl=en_IN">WiFi AR - most useful tool ever</a><br>
