@@ -90,3 +90,6 @@
 <a href="https://play.google.com/store/apps/details?id=ua.com.wifisolutions.wifivr&hl=en_IN">WiFi AR - most useful tool ever</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.ubiquity6.displayar&hl=en_IN">Display.land 3D Modeling: 3D Scanner & Model Maker</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.jellyworkz.mubert&hl=en_IN">Mubert: AI Music Streaming</a><br>
+
+<br><h3>Download Instagram Photos and Videos online!</h3>
+<a href="https://instasave.xyz/">Instasave</a><br>
