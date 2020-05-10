@@ -105,6 +105,6 @@
 <a href="https://play.google.com/store/apps/details?id=in.MadMoveGlobal.CashierCard&hl=en">Ewire Soft(Master Card)</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.myairtelapp&hl=en_IN">Airtel Thanks - Recharge, Bill Pay, Bank, Live TV(MasterCard)</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.YesBank&hl=en_IN">BHIM YES PAY(MasterCard)</a><br>
-<a href="https://instasave.xyz/">Instasave</a><br>
+
 
 
