@@ -93,3 +93,18 @@
 
 <br><h3>Download Instagram Photos and Videos online!</h3>
 <a href="https://instasave.xyz/">Instasave</a><br>
+
+<br><h3>Top Application For Free Debit Card CARD!</h3>
+<a href="https://play.google.com/store/apps/details?id=in.zeta.android&hl=en_IN">Zeta for Employees(Rupay Card)</a><br>
+<a href="https://udio.en.aptoide.com/app">Udio - Wallet*Rupay Card)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.icicibank.pockets&hl=en_IN">Pockets-UPI, Wallet, Bharat QR(VISA)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.dbs.in.digitalbank&hl=en_IN">digibank by DBS India</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.enstage.wibmo.hdfc&hl=en_IN">PayZapp</a><br>
+<a href="https://digipurse.en.aptoide.com/app">Union Bank Of India DigiPurse</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.tmw.mobilewallet&hl=en_IN">tmw – Wallet, Prepaid Card, Recharge, Payment(MasterCard)</a><br>
+<a href="https://play.google.com/store/apps/details?id=in.MadMoveGlobal.CashierCard&hl=en">Ewire Soft(Master Card)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.myairtelapp&hl=en_IN">Airtel Thanks - Recharge, Bill Pay, Bank, Live TV(MasterCard)</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.YesBank&hl=en_IN">BHIM YES PAY(MasterCard)</a><br>
+<a href="https://instasave.xyz/">Instasave</a><br>
+
+
