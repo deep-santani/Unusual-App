@@ -44,6 +44,7 @@
  <a href="https://play.google.com/store/apps/details?id=com.boo.boomoji&hl=en">Boomoji</a><br>
  <a href="https://play.google.com/store/apps/details?id=com.live.waterpaper">Live Waterpaper</a><br>
  <a href="https://play.google.com/store/apps/details?id=com.microsoft.math&hl=en">Microsoft Math Solver</a><br>
+ <a href="https://play.google.com/store/apps/details?id=ru.v_a_v.celltowerlocator&hl=en_IN">Cell Tower Locator</a><br>
 
  
  <br><h3>Android Apps You Don't know before</h3>
