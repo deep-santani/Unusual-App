@@ -109,5 +109,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.myairtelapp&hl=en_IN">Airtel Thanks - Recharge, Bill Pay, Bank, Live TV(MasterCard)</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.YesBank&hl=en_IN">BHIM YES PAY(MasterCard)</a><br>
 
+<br><h3>Pirated Picture Link!</h3>
+<a href="https://piratebay-proxylist.se/">Proxy list</a><br>
+<a href="https://1337x.to/">1337x</a><br>
+<a href="yts.vg">Yts.vg</a><br>
+
 
 
