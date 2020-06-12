@@ -132,5 +132,7 @@
 <br><h3>Best App for Downloading latest Movies</h3>
 <a href="https://m.apkpure.com/cave/com.bossadeel4.statusBull/download/2-APK">Cave (without torrent)</a>
 
+<a href="https://play.google.com/store/apps/details?id=com.debugger.syncdata&hl=en_IN">Clipboard Saver</a>
+
 
 
