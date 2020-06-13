@@ -134,5 +134,7 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.debugger.syncdata&hl=en_IN">Clipboard Saver</a>
 
+<a href="https://play.google.com/store/apps/details?id=simpllekeyboard.main&hl=en_IN">Shadow - Kid's Key Logger</a>
+
 
 
