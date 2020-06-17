@@ -137,6 +137,7 @@
 
 <a href="https://play.google.com/store/apps/details?id=simpllekeyboard.main&hl=en_IN">Shadow - Kid's Key Logger</a>
 
+![Speaker Cleaner](https://github.com/deep-santani/Unusual-App/blob/master/Speaker%20Cleaner.png)
 <a href="https://play.google.com/store/apps/details?id=com.boedec.hoel.speaker.cleaner.remove.water&hl=en_IN">Speaker Cleaner</a>
 
 
