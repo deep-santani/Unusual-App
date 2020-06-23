@@ -139,6 +139,6 @@
 
 ![Speaker Cleaner](https://github.com/deep-santani/Unusual-App/blob/master/Speaker%20Cleaner.png)
 <a href="https://play.google.com/store/apps/details?id=com.boedec.hoel.speaker.cleaner.remove.water&hl=en_IN">Speaker Cleaner</a>
-
+<a href="https://play.google.com/store/apps/details?id=com.snowcorp.vita&hl=en">VITA (edit videos on android smartphone without watermark)</a>
 
 
