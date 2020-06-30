@@ -141,17 +141,12 @@
 <a href="https://play.google.com/store/apps/details?id=com.boedec.hoel.speaker.cleaner.remove.water&hl=en_IN">Speaker Cleaner</a>
 <a href="https://play.google.com/store/apps/details?id=com.snowcorp.vita&hl=en">VITA (edit videos on android smartphone without watermark)</a>
 
-<br><h3>Top 6</h3>
-<a href="https://bit.ly/2BLcbNU">Recent Notifications</a>
-<a href="https://bit.ly/2YGir2b">NetShare</a>
-<a href="https://bit.ly/2ZcyEew">Internet Guard</a>
-<a href="https://bit.ly/2VsDx2g">Video Compressor</a>
-<a href="https://bit.ly/38cWWti">Tag you</a>
-<a href="https://bit.ly/31peUY0">Search by Image</a>
-
-
-
-
-
+<br><h3>Top 6</h3><br>
+<a href="https://bit.ly/2BLcbNU">Recent Notifications</a><br>
+<a href="https://bit.ly/2YGir2b">NetShare</a><br>
+<a href="https://bit.ly/2ZcyEew">Internet Guard</a><br>
+<a href="https://bit.ly/2VsDx2g">Video Compressor</a><br>
+<a href="https://bit.ly/38cWWti">Tag you</a><br>
+<a href="https://bit.ly/31peUY0">Search by Image</a><br>
 
 
