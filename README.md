@@ -142,12 +142,12 @@
 <a href="https://play.google.com/store/apps/details?id=com.snowcorp.vita&hl=en">VITA (edit videos on android smartphone without watermark)</a>
 
 <br><h3>Top 6</h3><br>
-<a href="https://bit.ly/2BLcbNU">Recent Notifications</a><br>
-<a href="https://bit.ly/2YGir2b">NetShare</a><br>
-<a href="https://bit.ly/2ZcyEew">Internet Guard</a><br>
-<a href="https://bit.ly/2VsDx2g">Video Compressor</a><br>
-<a href="https://bit.ly/38cWWti">Tag you</a><br>
-<a href="https://bit.ly/31peUY0">Search by Image</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.libin.notification&hl=en">Recent Notifications</a><br>
+<a href="https://play.google.com/store/apps/details?id=kha.prog.mikrotik&hl=en">NetShare</a><br>
+<a href="https://play.google.com/store/apps/details?id=eu.sheikhsoft.internetguard&hl=en">Internet Guard</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.idea.videocompress&hl=en">Video Compressor</a><br>
+<a href="https://play.google.com/store/apps/details?id=tag.zilni.tag.you&hl=en">Tag you</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.palmteam.imagesearch&hl=en">Search by Image</a><br>
 
 <a href="https://www.instagram.com/a/r/?effect_id=556480035205543">Instgram AI Feature Maybe you never try it!!!</a><br>
 
