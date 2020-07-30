@@ -1,15 +1,23 @@
 # Unusual-App
 
+### Calling & Messaging related
+   Spoofcard<br>
+  <a href="https://www.freeapkcloud.com/tak-zang-miss-call-boomber-apk-free-download/">Tak Zang (miss calling app)</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.techinnate.android.fakecallme&hl=en">Call Assistant (Generate Fake Call)</a><br>
+  <a href="https://apkpure.com/labalabi-for-whatsapp/labalabi.whatsapp">Labalabi for Whatsapp</a><br>
+  <a href="https://www.webpushnotifications.com/">Web Push Notifications</a><br>
+  <a href="https://play.google.com/store/apps/details?id=me.talkyou.app.im">TalkU: Phone Numbers for Free Calling & Texting</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.enflick.android.TextNow&hl=en_IN">TextNow - Free US Phone Number</a><br>
+  
  <a href="https://shorturl.at/nUVY9"><b><h3><font color="red">Top 5 Best Unusual Apps></font></h3></b></a>
  <ul>
-  <li>Spoofcard</li>
   <li>Fake Chat</li>
   <li>Apkdone Website</li>
   <li>Oreo TV</li>
   <li>Nothing</li>
 </ul>
 <h3><p>Top 4 Paid Apps Free</p></h3>
-<a href="https://www.mediafire.com/file/b8jhtgeuwnfq1rq/3DParallaxa2019.apk/file">3d Parallax PREMIUM</a><br>
+<a href="https://www.mediafire.com/file/b8jhtgeuwnfq1rq/3DParallaxa2019.apk/file">3D Parallax PREMIUM</a><br>
 <a href="https://www.mediafire.com/file/pcstw2ftb70ec2x/teaTV.apk/file">Tea Tv</a><br>
 <a href="https://www.mediafire.com/file/eva40e6felrcyy8/MX_Player_Pro-v1.13.2_build_1310001145-AC3-DTS_NEON-armeabi-v7a.apk/file">Mx player Pro</a><br>
 <a href="https://www.mediafire.com/file/whl13tbbe7ogbw8/ThunderVPN.apk/file">Thunder vpn</a><br>
@@ -26,7 +34,7 @@
  <a href="https://zxing.org/w/decode.jspx">Qr Decoder</a><br>
  
  <br><h3>Top 4 Apps</h3>
- <a href="https://bit.ly/35pSunQ">Bombitup</a><br>
+ 
  <a href="https://bit.ly/2ulv1Y7">1.Remote Audio Recorder</a><br>
  <a href="https://bit.ly/37G2fQr">2.Listen your Audio Recordings on this Website</a><br>
  <a href="https://bit.ly/36qFqzN">1.Lucky Tok Tools</a><br>
@@ -35,10 +43,9 @@
  <a href="https://bit.ly/2ukyqGE">2.Track All the messages here</a><br>
  
  <br><h3>Top 5 Must Have Android Apps</h3>
- <a href="https://www.freeapkcloud.com/tak-zang-miss-call-boomber-apk-free-download/">Tak Zang (miss calling app)</a><br>
- <a href="https://apkpure.com/labalabi-for-whatsapp/labalabi.whatsapp">Labalabi for Whatsapp</a><br>
+
  <a href="https://www.youtube.com/redirect?redir_token=8_XMYgmOtMvrSvXhMUf0Zn4VwXR8MTU4Njk2NTkzN0AxNTg2ODc5NTM3&q=https%3A%2F%2Fapkuncle.com%2Fwp-content%2Fdownloads%2FBlackmart-Alpha-V1.1.4-apkuncle.com.apk&event=video_description&v=lzvb0buQmMA">Blackmart( app store)</a><br>
- <a href="https://play.google.com/store/apps/details?id=com.techinnate.android.fakecallme&hl=en">Call Assistant (Generate Fake    Call)</a><br>
+
  <a href="https://play.google.com/store/apps/details?id=io.yoba.storysaverforinsta">Insta Story Saver</a><br>
  
  <br><h3>Top Android Apps in 2018</h3>
@@ -68,7 +75,7 @@
 <br><h3>Top 4 Amazing Website</h3>
 <a href="https://www.pexels.com/">free stock photos & videos</a><br>
 <a href="https://www.unscreen.com/">Remove Video Background</a><br>
-<a href="https://www.webpushnotifications.com/">Web Push Notifications</a><br>
+
 <a href="https://privacy.com/">The online card</a><br>
 
 <br><h3>File Manager Trick</h3>
@@ -153,5 +160,4 @@
 <a href="https://www.instagram.com/a/r/?effect_id=556480035205543">Instgram AI Feature Maybe you never try it!!!</a><br>
 
 <br><h3>Calling App Everywhere(Out of your country)</h3><br>
-<a href="https://play.google.com/store/apps/details?id=me.talkyou.app.im">TalkU: Phone Numbers for Free Calling & Texting</a><br>
-<a href="https://play.google.com/store/apps/details?id=com.enflick.android.TextNow&hl=en_IN">TextNow - Free US Phone Number</a><br>
+
