@@ -170,6 +170,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.palmteam.imagesearch&hl=en">Search by Image</a><br>
 
 <a href="https://www.instagram.com/a/r/?effect_id=556480035205543">Instgram AI Feature Maybe you never try it!!!</a><br>
+<a href="https://z-lib.org/">Z Libarary!!!</a><br>
 
 
 
