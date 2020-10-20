@@ -175,3 +175,5 @@
 morphox for changing real time voice
 <a href="https://www.luckypatchers.com/download/">Lucky Patcher</a><br>
 
+<a href="https://syedaftabhashmi.com/tasker-mod-apk-paid-latest-apk-download/">Tasker MOD APK</a><br>
+
