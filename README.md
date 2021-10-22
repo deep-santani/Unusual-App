@@ -186,3 +186,6 @@ Flashlight HD LED</a><br>
 <a href="https://www.kotak.com/en/personal-banking/cards/credit-cards/811-dream-different-credit-card.html">811-dream-different-credit-card</a><br>
 <a href="https://www.bobfinancial.com/assure.jsp">Bank of Baroda
 Assure Credit Card</a><br>.
+
+<h3><p>Temp Mail</p></h3>
+<a href="https://temp-mail.org/en/">Your Temporary Email Address</a><br>
