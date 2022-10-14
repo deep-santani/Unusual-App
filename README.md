@@ -193,3 +193,10 @@ Assure Credit Card</a><br>.
 <h3><p>Prermium Photo Editing Apps</p></h3>
 <a href="https://moddroid.co/picsart-gold-mods-165.html">PicsArt v18.4.1 Gold </a><br>
 
+<h3><p>Install and Update All Your Programs at Once</p></h3>
+<a href="https://ninite.com/"> Ninite </a><br>
+
+
+<h3><p>Run Android app on IOS</p></h3>
+<a href="https://airmore.com/run-android-apps-ios-devices.html"> Alternative Methods to Run Android Apps on iOS Devices </a><br>
+
